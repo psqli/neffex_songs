@@ -14,6 +14,7 @@ License: CC BY = copyright free; LABEL,REMIX = copyright restricted;
 
 | Upload date | License | Song name |
 |-------------|---------|-----------|
+| 2023-01-25 | CC BY | [Never Gonna Stop 👆 No.190](https://youtu.be/gClgXSwUzlo) |
 | 2023-01-18 | CC BY | [At The Top 📈 No.189](https://youtu.be/kyHAMqLJTCk) |
 | 2023-01-11 | CC BY | [Inside 🔭 No.188](https://youtu.be/Y3ShlPHL8Tw) |
 | 2023-01-04 | CC BY | [POTUS 🤌 No.187](https://youtu.be/6QpXrR_j6F8) |
