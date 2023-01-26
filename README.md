@@ -10,7 +10,11 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
     https://www.youtube.com/@neffexmusic/videos
 ```
 
-License: CC BY = copyright free; LABEL,REMIX = copyright restricted;
+| License | Description |
+|---------|-------------|
+| [CC BY](https://creativecommons.org/licenses/by/3.0/legalcode) | royalty-free |
+| [LABEL](https://www.wmg.com/faq) | rights are restricted by a record label |
+| [REMIX](https://www.theverge.com/2019/5/24/18635904/copyright-youtube-creators-dmca-takedown-fair-use-music-cover) | rights may be restricted by original artist's record label |
 
 | Upload date | License | Song name |
 |-------------|---------|-----------|
