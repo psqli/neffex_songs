@@ -207,6 +207,7 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 | 2017-09-20 | CC BY | [Badass 💋 No.32](https://youtu.be/rzElZuhGTpU) |
 | 2017-09-13 | CC BY | [Self Made 👔 No.31](https://youtu.be/5fSYGKYDK5E) |
 | 2017-09-06 | CC BY | [Unstoppable 👊 No.30](https://youtu.be/xGTju1I-xFU) |
+| 2017-08-30 | CC BY | [Shmack'd 😵](https://soundcloud.com/neffexmusic/shmackd)² |
 | 2017-08-23 | CC BY | [Never Hold Back 🤘 No.29](https://youtu.be/IlSfsJ0oS34) |
 | 2017-08-16 | CC BY | [First Time 🔥 No.28](https://youtu.be/E_UOkyJ87Fc) |
 | 2017-08-09 | CC BY | [Never Give Up ☝️ No.27](https://youtu.be/_70Q-Xj3rEo) |
@@ -264,3 +265,7 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 
 ¹ The song "Summer" was removed from Spotify because of a copyright claim
   alleging that one or more parts were copied from another song.
+² The song "Shmack'd" was removed from the official collection because
+  NEFFEX received feedback and agreed that the lyrics transmitted an
+  unintended message. The link points to SoundCloud where the song is
+  still online.
