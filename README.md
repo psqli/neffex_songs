@@ -265,6 +265,7 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 
 ¹ The song "Summer" was removed from Spotify because of a copyright claim
   alleging that one or more parts were copied from another song.
+
 ² The song "Shmack'd" was removed from the official collection because
   NEFFEX received feedback and agreed that the lyrics transmitted an
   unintended message. The link points to SoundCloud where the song is
