@@ -18,6 +18,7 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 
 | Upload date | License | Song name |
 |-------------|---------|-----------|
+| 2023-02-08 | CC BY | [Conviction ✊ No.192](https://youtu.be/Dme7loMDguw) |
 | 2023-02-01 | CC BY | [Before I'm Gone 🤘 No.191](https://youtu.be/JhSc7f4osi8) |
 | 2023-01-25 | CC BY | [Never Gonna Stop 👆 No.190](https://youtu.be/gClgXSwUzlo) |
 | 2023-01-18 | CC BY | [At The Top 📈 No.189](https://youtu.be/kyHAMqLJTCk) |
