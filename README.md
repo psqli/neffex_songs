@@ -18,6 +18,7 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 
 | Upload date | License | Song name |
 |-------------|---------|-----------|
+| 2023-02-22 | CC BY | [Made For This 💪 No.194](https://youtu.be/N37zvC9fa-s) |
 | 2023-02-15 | CC BY | [A Place For Me 🙏 No.193](https://youtu.be/fCmQSoLaZp4) |
 | 2023-02-08 | CC BY | [Conviction ✊ No.192](https://youtu.be/Dme7loMDguw) |
 | 2023-02-01 | CC BY | [Before I'm Gone 🤘 No.191](https://youtu.be/JhSc7f4osi8) |
