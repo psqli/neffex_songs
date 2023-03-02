@@ -18,6 +18,7 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 
 | Upload date | License | Song name |
 |-------------|---------|-----------|
+| 2023-03-01 | CC BY | [Tough Times 🧱 No.195](https://youtu.be/qXeORn7NVbU) |
 | 2023-02-22 | CC BY | [Made For This 💪 No.194](https://youtu.be/N37zvC9fa-s) |
 | 2023-02-15 | CC BY | [A Place For Me 🙏 No.193](https://youtu.be/fCmQSoLaZp4) |
 | 2023-02-08 | CC BY | [Conviction ✊ No.192](https://youtu.be/Dme7loMDguw) |
