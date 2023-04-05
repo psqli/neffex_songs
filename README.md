@@ -18,6 +18,11 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 
 | Upload date | License | Song name |
 |-------------|---------|-----------|
+| 2023-04-05 | CC BY | [Haunt 💀 No.200](https://youtu.be/m5gsOIKS1Zg) |
+| 2023-03-29 | CC BY | [I Won't Stop 👊 No.199](https://youtu.be/9-oVLU3-pfM) |
+| 2023-03-22 | CC BY | [Fearless 💥 No.198](https://youtu.be/Z7wMezhcw_w) |
+| 2023-03-15 | CC BY | [The King Is Dead 👑 No.197](https://youtu.be/EhQy5JgrMsQ) |
+| 2023-03-08 | CC BY | [Collapse 😤 No.196](https://youtu.be/kn9KNEakoyQ) |
 | 2023-03-01 | CC BY | [Tough Times 🧱 No.195](https://youtu.be/qXeORn7NVbU) |
 | 2023-02-22 | CC BY | [Made For This 💪 No.194](https://youtu.be/N37zvC9fa-s) |
 | 2023-02-15 | CC BY | [A Place For Me 🙏 No.193](https://youtu.be/fCmQSoLaZp4) |
