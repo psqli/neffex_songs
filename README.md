@@ -18,6 +18,7 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 
 | Upload date | License | Song name |
 |-------------|---------|-----------|
+| 2023-04-12 | CC BY | [This is War ⚔️ No.201](https://youtu.be/D0VnutNFiew) |
 | 2023-04-05 | CC BY | [Haunt 💀 No.200](https://youtu.be/m5gsOIKS1Zg) |
 | 2023-03-29 | CC BY | [I Won't Stop 👊 No.199](https://youtu.be/9-oVLU3-pfM) |
 | 2023-03-22 | CC BY | [Fearless 💥 No.198](https://youtu.be/Z7wMezhcw_w) |
