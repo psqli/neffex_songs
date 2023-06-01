@@ -18,6 +18,13 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 
 | Upload date | License | Song name |
 |-------------|---------|-----------|
+| 2023-05-31 | CC BY | [Undefeated 🏆 No.208](https://youtu.be/9kAYgYCxm0I) |
+| 2023-05-24 | CC BY | [Brawl 👊 No.207](https://youtu.be/NwXUx7vtmrI) |
+| 2023-05-17 | CC BY | [The Plague 💀 No.206](https://youtu.be/S3_vDlTVlNA) |
+| 2023-05-10 | CC BY | [Victorious 🏁 No.205](https://youtu.be/pvlMkCbkyp4) |
+| 2023-05-03 | CC BY | [Seeing All Red 🥷 No.204](https://youtu.be/EcphN5iJYbo) |
+| 2023-04-28 | CC BY | [DESPERATE ⛓ No.203](https://youtu.be/BVy9MApx9KA) |
+| 2023-04-19 | CC BY | [The Curse 🦇 No.202](https://youtu.be/PP7gSiVsxas) |
 | 2023-04-12 | CC BY | [This is War ⚔️ No.201](https://youtu.be/D0VnutNFiew) |
 | 2023-04-05 | CC BY | [Haunt 💀 No.200](https://youtu.be/m5gsOIKS1Zg) |
 | 2023-03-29 | CC BY | [I Won't Stop 👊 No.199](https://youtu.be/9-oVLU3-pfM) |
