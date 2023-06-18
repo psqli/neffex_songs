@@ -18,6 +18,7 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 
 | Upload date | License | Song name |
 |-------------|---------|-----------|
+| 2023-06-07 | CC BY | [I Will Be The Best 🥇 No.209](https://youtu.be/4BpcqBCYrpE) |
 | 2023-05-31 | CC BY | [Undefeated 🏆 No.208](https://youtu.be/9kAYgYCxm0I) |
 | 2023-05-24 | CC BY | [Brawl 👊 No.207](https://youtu.be/NwXUx7vtmrI) |
 | 2023-05-17 | CC BY | [The Plague 💀 No.206](https://youtu.be/S3_vDlTVlNA) |
