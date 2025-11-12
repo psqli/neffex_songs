@@ -18,6 +18,39 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 
 | Upload date | License | Song name |
 |-------------|---------|-----------|
+| 2025-11-12 | CC BY | [Manifest (963hz)](https://youtu.be/Ha-7PaSW9S0) |
+| 2025-09-24 | CC BY | [Control](https://youtu.be/-KtjxkQeKzI) |
+| 2025-07-23 | CC BY | [NEFFEX & D.A.G.S - 5AM (Overnight Success) No.241](https://youtu.be/XifaV8-xvQk) |
+| 2025-06-25 | CC BY | [Goodbye No.240](https://youtu.be/PcDBneK_3vA) |
+| 2025-05-28 | CC BY | [Save A Life No.239](https://youtu.be/qtSmf-hhHyk) |
+| 2025-04-30 | CC BY | [NEFFEX & DriVn - Say My Name No.238](https://youtu.be/bjRxb0Xs0qE) |
+| 2025-03-19 | CC BY | [Wake Up No.237](https://youtu.be/z1MgFIpSqJk) |
+| 2024-12-18 | CC BY | [The Friends Inside My Head (Demo) No.236](https://youtu.be/avHW9PQsGz8) |
+| 2024-09-25 | CC BY | [NEFFEX x TOKYO MACHINE - DESPERATE](https://youtu.be/ueDFpnjWaG0) |
+| 2024-06-26 | CC BY | [Take Control No.235](https://youtu.be/vYACSkGqkHY) |
+| 2024-06-12 | CC BY | [Michael Jordan No.234](https://youtu.be/eYBSoGnsZQs) |
+| 2024-05-29 | CC BY | [Warrior No.233](https://youtu.be/EL4cALckJSc) |
+| 2024-05-15 | CC BY | [Stand Up No.232](https://youtu.be/aIUO-DqkFYA) |
+| 2024-05-01 | CC BY | [Learning to Let Go No.231](https://youtu.be/KKlBid53FU4) |
+| 2024-04-24 | CC BY | [Better On Your Own No.230](https://youtu.be/LjX8ZP0wTt0) |
+| 2024-04-10 | CC BY | [Afterlife No.229](https://youtu.be/n0RJtLfmogA) |
+| 2024-03-27 | CC BY | [Things I'll Never Miss No.228](https://youtu.be/9Oa5vHxSl4M) |
+| 2024-03-13 | CC BY | [Where Did You Go? No.227](https://youtu.be/_jtJ3cdKWtI) |
+| 2024-02-07 | CC BY | [Rush No.226](https://youtu.be/9897fAEPXMs) |
+| 2024-01-24 | CC BY | [Take Off No.225](https://youtu.be/CvUxi35IdWM) |
+| 2024-01-10 | CC BY | [Give Me a Sign No.224](https://youtu.be/CvL_nwvYNaY) |
+| 2023-12-20 | CC BY | [I Want More (Freestyle) No.223](https://youtu.be/kcSeTPWJmsA) |
+| 2023-12-06 | CC BY | [Never Back Down No.222](https://youtu.be/xBxhq9K_PbU) |
+| 2023-11-22 | CC BY | [CEO No.221](https://youtu.be/kOcHF7oF0xY) |
+| 2023-11-08 | CC BY | [Rare No.220](https://youtu.be/YXHKjnuIUHE) |
+| 2023-10-25 | CC BY | [Change No.219](https://youtu.be/K1-C7paZxp8) |
+| 2023-10-11 | CC BY | [Modest No.218](https://youtu.be/Ns4A5Trqpcs) |
+| 2023-09-20 | CC BY | [Brave No.217](https://youtu.be/YExvqxUQYgE) |
+| 2023-09-06 | CC BY | [Courageous No.216](https://youtu.be/irgVSK-PXhQ) |
+| 2023-08-23 | CC BY | [This Is Our Calling No.215](https://youtu.be/25Nblns8oVQ) |
+| 2023-08-09 | CC BY | [Take It No.214](https://youtu.be/HQrEicGeyuE) |
+| 2023-07-26 | CC BY | [Honor No.213](https://youtu.be/PU7oaPFZWl4) |
+| 2023-07-12 | CC BY | [Beast No.212](https://youtu.be/PG3CKAjj34k) |
 | 2023-06-28 | CC BY | [Villains and Heroes No.211](https://youtu.be/u8v3xTteOH0) |
 | 2023-06-19 | CC BY | [Find My Way Out 🔦 No.210](https://youtu.be/W6EMwAI49f0) |
 | 2023-06-07 | CC BY | [I Will Be The Best 🥇 No.209](https://youtu.be/4BpcqBCYrpE) |
