@@ -18,6 +18,7 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 
 | Upload date | License | Number | Song name |
 |-------------|---------|--------|-----------|
+| 2025-12-03 | CC BY |    244 | [C'MON!](https://youtu.be/ffwvmCU2GEA) |
 | 2025-11-12 | CC BY |    243 | [Manifest (963hz)](https://youtu.be/Ha-7PaSW9S0) |
 | 2025-09-24 | CC BY |    242 | [Control](https://youtu.be/-KtjxkQeKzI) |
 | 2025-07-23 | CC BY |    241 | [NEFFEX & D.A.G.S - 5AM (Overnight Success)](https://youtu.be/XifaV8-xvQk) |
