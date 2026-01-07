@@ -18,8 +18,8 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 
 | Upload date | License | Number | Song name |
 |-------------|---------|--------|-----------|
-| 2025-11-12 | CC BY | _none_ | [Manifest (963hz)](https://youtu.be/Ha-7PaSW9S0) |
-| 2025-09-24 | CC BY | _none_ | [Control](https://youtu.be/-KtjxkQeKzI) |
+| 2025-11-12 | CC BY |    243 | [Manifest (963hz)](https://youtu.be/Ha-7PaSW9S0) |
+| 2025-09-24 | CC BY |    242 | [Control](https://youtu.be/-KtjxkQeKzI) |
 | 2025-07-23 | CC BY |    241 | [NEFFEX & D.A.G.S - 5AM (Overnight Success)](https://youtu.be/XifaV8-xvQk) |
 | 2025-06-25 | CC BY |    240 | [Goodbye](https://youtu.be/PcDBneK_3vA) |
 | 2025-05-28 | CC BY |    239 | [Save A Life](https://youtu.be/qtSmf-hhHyk) |
