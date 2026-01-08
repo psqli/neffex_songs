@@ -26,7 +26,8 @@
             "releaseDate": "2025-07-23",
             "license": "CC BY",
             "neffexReleaseNumber": 241,
-            "name": "NEFFEX & D.A.G.S - 5AM (Overnight Success)",
+            "name": "5AM (Overnight Success)",
+            "feat": "D.A.G.S",
             "originalUrl": "https://youtu.be/XifaV8-xvQk"
         },
         {
@@ -47,7 +48,8 @@
             "releaseDate": "2025-04-30",
             "license": "CC BY",
             "neffexReleaseNumber": 238,
-            "name": "NEFFEX & DriVn - Say My Name",
+            "name": "Say My Name",
+            "feat": "DriVn",
             "originalUrl": "https://youtu.be/bjRxb0Xs0qE"
         },
         {
@@ -61,13 +63,13 @@
             "releaseDate": "2024-12-18",
             "license": "CC BY",
             "neffexReleaseNumber": 236,
-            "name": "The Friends Inside My Head (Demo)",
+            "name": "The Friends Inside My Head (demo)",
             "originalUrl": "https://youtu.be/avHW9PQsGz8"
         },
         {
             "releaseDate": "2024-09-25",
             "license": "CC BY",
-            "name": "NEFFEX x TOKYO MACHINE - DESPERATE",
+            "name": "DESPERATE (TOKYO MACHINE remix)",
             "originalUrl": "https://youtu.be/ueDFpnjWaG0"
         },
         {
@@ -158,7 +160,7 @@
             "releaseDate": "2023-12-20",
             "license": "CC BY",
             "neffexReleaseNumber": 223,
-            "name": "I Want More (Freestyle)",
+            "name": "I Want More (freestyle)",
             "originalUrl": "https://youtu.be/kcSeTPWJmsA"
         },
         {
@@ -424,14 +426,16 @@
             "releaseDate": "2022-12-21",
             "license": "CC BY",
             "neffexReleaseNumber": 185,
-            "name": "This Is Not A Christmas Song (with Ryan Oakes)",
+            "name": "This Is Not A Christmas Song",
+            "feat": "Ryan Oakes",
             "originalUrl": "https://youtu.be/l-hifFx71sY"
         },
         {
             "releaseDate": "2022-12-16",
             "license": "CC BY",
             "neffexReleaseNumber": 184,
-            "name": "NEFFEX x TheFatRat - Back One Day",
+            "name": "Back One Day",
+            "feat": "TheFatRat",
             "originalUrl": "https://youtu.be/3_3PFGIfqPg"
         },
         {
@@ -445,7 +449,7 @@
             "releaseDate": "2022-11-30",
             "license": "CC BY",
             "neffexReleaseNumber": 182,
-            "name": "Stay Strong (Sophia's Song)",
+            "name": "Stay Strong (Sophia's song)",
             "originalUrl": "https://youtu.be/n4TN2MLoae0"
         },
         {
@@ -543,7 +547,8 @@
             "releaseDate": "2022-08-24",
             "license": "CC BY",
             "neffexReleaseNumber": 168,
-            "name": "NEFFEX x NEONI - Pinky Promise",
+            "name": "Pinky Promise",
+            "feat": "NEONI",
             "originalUrl": "https://youtu.be/PpVi8RduUUk"
         },
         {
@@ -823,7 +828,8 @@
             "releaseDate": "2021-11-17",
             "license": "CC BY",
             "neffexReleaseNumber": 128,
-            "name": "The Itch (feat. Josh A)",
+            "name": "The Itch",
+            "feat": "Josh A",
             "originalUrl": "https://youtu.be/9uYhFfXXtwA"
         },
         {
@@ -973,7 +979,8 @@
         {
             "releaseDate": "2020-11-05",
             "license": "LABEL",
-            "name": "Mind Reader feat. MASN",
+            "name": "Mind Reader",
+            "feat": "MASN",
             "originalUrl": "https://youtu.be/ZjaMkt5Uo2c"
         },
         {
@@ -1027,13 +1034,15 @@
         {
             "releaseDate": "2020-09-25",
             "license": "LABEL",
-            "name": "Be Somebody feat. ROZES",
+            "name": "Be Somebody",
+            "feat": "ROZES",
             "originalUrl": "https://youtu.be/T2HN-MjfMbU"
         },
         {
             "releaseDate": "2020-09-09",
             "license": "LABEL",
-            "name": "I Wanna Play A Game feat. Jez Dior",
+            "name": "I Wanna Play A Game",
+            "feat": "Jez Dior",
             "originalUrl": "https://youtu.be/6jBhSCM64gI"
         },
         {
@@ -1889,7 +1898,7 @@
         {
             "releaseDate": "2016-12-16",
             "license": "REMIX",
-            "name": "Portz - What's Up? (NEFFEX Remix)",
+            "name": "Portz - What's Up? (NEFFEX remix)",
             "originalUrl": "https://youtu.be/TZETt1U2PjU"
         },
         {
@@ -1913,121 +1922,121 @@
         {
             "releaseDate": "2016-10-03",
             "license": "REMIX",
-            "name": "The Chainsmokers - All We Know ft. Phoebe Ryan (NEFFEX Remix)",
+            "name": "The Chainsmokers - All We Know ft. Phoebe Ryan (NEFFEX remix)",
             "originalUrl": "https://youtu.be/bywhQy8Z5X4"
         },
         {
             "releaseDate": "2016-09-16",
             "license": "CC BY",
-            "name": "Messed Up (Original mix)",
+            "name": "Messed Up",
             "originalUrl": "https://youtu.be/E-h6uB6sZ1Y"
         },
         {
             "releaseDate": "2016-08-15",
             "license": "REMIX",
-            "name": "The Chainsmokers - Closer ft. Halsey (NEFFEX Remix)",
+            "name": "The Chainsmokers - Closer ft. Halsey (NEFFEX remix)",
             "originalUrl": "https://youtu.be/sHDb6LzrdUk"
         },
         {
             "releaseDate": "2016-06-28",
             "license": "REMIX",
-            "name": "DJ Khaled - For Free ft. Drake (NEFFEX Remix)",
+            "name": "DJ Khaled - For Free ft. Drake (NEFFEX remix)",
             "originalUrl": "https://youtu.be/3i3bFtsfcnU"
         },
         {
             "releaseDate": "2016-06-16",
             "license": "REMIX",
-            "name": "We The Kings - Check Yes Juliet (NEFFEX Remix)",
+            "name": "We The Kings - Check Yes Juliet (NEFFEX remix)",
             "originalUrl": "https://youtu.be/FKkSCC8NIpo"
         },
         {
             "releaseDate": "2016-06-16",
             "license": "REMIX",
-            "name": "Wes Walker - Jordan Belfort (NEFFEX Festival Trap Remix)",
+            "name": "Wes Walker - Jordan Belfort (NEFFEX festival trap remix)",
             "originalUrl": "https://youtu.be/5j4_hbu0REc"
         },
         {
             "releaseDate": "2016-06-16",
             "license": "REMIX",
-            "name": "Grandtheft & Keys N Krates - Keep It 100 (NEFFEX Remix)",
+            "name": "Grandtheft & Keys N Krates - Keep It 100 (NEFFEX remix)",
             "originalUrl": "https://youtu.be/WZepJroGn5M"
         },
         {
             "releaseDate": "2016-06-16",
             "license": "REMIX",
-            "name": "graves & FELMAX - Zebras In America (NEFFEX Remix)",
+            "name": "graves & FELMAX - Zebras In America (NEFFEX remix)",
             "originalUrl": "https://youtu.be/75unzFz4fUs"
         },
         {
             "releaseDate": "2016-06-16",
             "license": "REMIX",
-            "name": "Lookas - Voyager (NEFFEX Remix)",
+            "name": "Lookas - Voyager (NEFFEX remix)",
             "originalUrl": "https://youtu.be/b-LogphUT4g"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "JACKAL - OHUMAD (NEFFEX Remix)",
+            "name": "JACKAL - OHUMAD (NEFFEX remix)",
             "originalUrl": "https://youtu.be/Cpf3TUp6-uA"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "CC BY",
-            "name": "If JAUZ Played Guitar (Original Mix)",
+            "name": "If JAUZ Played Guitar",
             "originalUrl": "https://youtu.be/IaQzkuo1Wn4"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Tomsize & Creaky Jackals - Fly (NEFFEX Remix)",
+            "name": "Tomsize & Creaky Jackals - Fly (NEFFEX remix)",
             "originalUrl": "https://youtu.be/B7wpnXBlHzA"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Dotcom - Click (NEFFEX Remix)",
+            "name": "Dotcom - Click (NEFFEX remix)",
             "originalUrl": "https://youtu.be/8OkSzhjObU0"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Slushii - Deeper Love (NEFFEX Remix)",
+            "name": "Slushii - Deeper Love (NEFFEX remix)",
             "originalUrl": "https://youtu.be/EZapg0Mf0tI"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Marshmello - WroNg (NEFFEX Remix)",
+            "name": "Marshmello - WroNg (NEFFEX remix)",
             "originalUrl": "https://youtu.be/DOuS7MlNRWw"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Ariana Grande - Dangerous Woman (NEFFEX Remix)",
+            "name": "Ariana Grande - Dangerous Woman (NEFFEX remix)",
             "originalUrl": "https://youtu.be/n3j3sS-ZKXg"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Eminem - Till I Collapse (NEFFEX Remix)",
+            "name": "Eminem - Till I Collapse (NEFFEX remix)",
             "originalUrl": "https://youtu.be/jNFPM6frhCA"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Iggy Azalea - TEAM (NEFFEX Remix)",
+            "name": "Iggy Azalea - TEAM (NEFFEX remix)",
             "originalUrl": "https://youtu.be/9eiAO1oJ41w"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Fifth Harmony - All In My Head (NEFFEX Remix)",
+            "name": "Fifth Harmony - All In My Head (NEFFEX remix)",
             "originalUrl": "https://youtu.be/p9Anc9UP-WA"
         },
         {
             "releaseDate": "2016-02-18",
             "license": "CC BY",
-            "name": "Killa (Original)",
+            "name": "Killa",
             "originalUrl": "https://youtu.be/MKaeNSk2_Jg"
         }
     ]

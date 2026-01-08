@@ -54,7 +54,10 @@ for song in songs:
     colDate = song["releaseDate"]
     colLicense = song["license"]
     colNumber = song.get("neffexReleaseNumber", "_none_")
-    colName = "[{name}]({url})".format(name=song["name"], url=song["originalUrl"])
+    songName = song["name"]
+    if "feat" in song:
+        songName += f" (feat. {song["feat"]})"
+    colName = "[{name}]({url})".format(name=songName, url=song["originalUrl"])
     if "additionalNote" in song:
         footnoteCount += 1
         colName += f"[^{footnoteCount}]" if "additionalNote" in song else ""

@@ -21,13 +21,13 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 | 2025-12-03  | CC BY   | 244    | [C'MON!](https://youtu.be/ffwvmCU2GEA) |
 | 2025-11-12  | CC BY   | 243    | [Manifest (963hz)](https://youtu.be/Ha-7PaSW9S0) |
 | 2025-09-24  | CC BY   | 242    | [Control](https://youtu.be/-KtjxkQeKzI) |
-| 2025-07-23  | CC BY   | 241    | [NEFFEX & D.A.G.S - 5AM (Overnight Success)](https://youtu.be/XifaV8-xvQk) |
+| 2025-07-23  | CC BY   | 241    | [5AM (Overnight Success) (feat. D.A.G.S)](https://youtu.be/XifaV8-xvQk) |
 | 2025-06-25  | CC BY   | 240    | [Goodbye](https://youtu.be/PcDBneK_3vA) |
 | 2025-05-28  | CC BY   | 239    | [Save A Life](https://youtu.be/qtSmf-hhHyk) |
-| 2025-04-30  | CC BY   | 238    | [NEFFEX & DriVn - Say My Name](https://youtu.be/bjRxb0Xs0qE) |
+| 2025-04-30  | CC BY   | 238    | [Say My Name (feat. DriVn)](https://youtu.be/bjRxb0Xs0qE) |
 | 2025-03-19  | CC BY   | 237    | [Wake Up](https://youtu.be/z1MgFIpSqJk) |
-| 2024-12-18  | CC BY   | 236    | [The Friends Inside My Head (Demo)](https://youtu.be/avHW9PQsGz8) |
-| 2024-09-25  | CC BY   | _none_ | [NEFFEX x TOKYO MACHINE - DESPERATE](https://youtu.be/ueDFpnjWaG0) |
+| 2024-12-18  | CC BY   | 236    | [The Friends Inside My Head (demo)](https://youtu.be/avHW9PQsGz8) |
+| 2024-09-25  | CC BY   | _none_ | [DESPERATE (TOKYO MACHINE remix)](https://youtu.be/ueDFpnjWaG0) |
 | 2024-06-26  | CC BY   | 235    | [Take Control](https://youtu.be/vYACSkGqkHY) |
 | 2024-06-12  | CC BY   | 234    | [Michael Jordan](https://youtu.be/eYBSoGnsZQs) |
 | 2024-05-29  | CC BY   | 233    | [Warrior](https://youtu.be/EL4cALckJSc) |
@@ -40,7 +40,7 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 | 2024-02-07  | CC BY   | 226    | [Rush](https://youtu.be/9897fAEPXMs) |
 | 2024-01-24  | CC BY   | 225    | [Take Off](https://youtu.be/CvUxi35IdWM) |
 | 2024-01-10  | CC BY   | 224    | [Give Me a Sign](https://youtu.be/CvL_nwvYNaY) |
-| 2023-12-20  | CC BY   | 223    | [I Want More (Freestyle)](https://youtu.be/kcSeTPWJmsA) |
+| 2023-12-20  | CC BY   | 223    | [I Want More (freestyle)](https://youtu.be/kcSeTPWJmsA) |
 | 2023-12-06  | CC BY   | 222    | [Never Back Down](https://youtu.be/xBxhq9K_PbU) |
 | 2023-11-22  | CC BY   | 221    | [CEO](https://youtu.be/kOcHF7oF0xY) |
 | 2023-11-08  | CC BY   | 220    | [Rare](https://youtu.be/YXHKjnuIUHE) |
@@ -78,10 +78,10 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 | 2023-01-11  | CC BY   | 188    | [Inside](https://youtu.be/Y3ShlPHL8Tw) |
 | 2023-01-04  | CC BY   | 187    | [POTUS](https://youtu.be/6QpXrR_j6F8) |
 | 2022-12-28  | CC BY   | 186    | [Get Out My Way](https://youtu.be/z_1Ay6vQd04) |
-| 2022-12-21  | CC BY   | 185    | [This Is Not A Christmas Song (with Ryan Oakes)](https://youtu.be/l-hifFx71sY) |
-| 2022-12-16  | CC BY   | 184    | [NEFFEX x TheFatRat - Back One Day](https://youtu.be/3_3PFGIfqPg) |
+| 2022-12-21  | CC BY   | 185    | [This Is Not A Christmas Song (feat. Ryan Oakes)](https://youtu.be/l-hifFx71sY) |
+| 2022-12-16  | CC BY   | 184    | [Back One Day (feat. TheFatRat)](https://youtu.be/3_3PFGIfqPg) |
 | 2022-12-07  | CC BY   | 183    | [New Year, New Me](https://youtu.be/FGISLAGrHkY) |
-| 2022-11-30  | CC BY   | 182    | [Stay Strong (Sophia's Song)](https://youtu.be/n4TN2MLoae0) |
+| 2022-11-30  | CC BY   | 182    | [Stay Strong (Sophia's song)](https://youtu.be/n4TN2MLoae0) |
 | 2022-11-23  | CC BY   | 181    | [The Rain](https://youtu.be/OStiPHDfwug) |
 | 2022-11-16  | CC BY   | 180    | [Fever Dream](https://youtu.be/1JJptraMdQI) |
 | 2022-11-09  | CC BY   | 179    | [Choose It](https://youtu.be/yGRi48XCo3s) |
@@ -95,7 +95,7 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 | 2022-09-14  | CC BY   | 171    | [Ready To Kill](https://youtu.be/aLdCAVAEDic) |
 | 2022-09-07  | CC BY   | 170    | [Till My Hands Bleed](https://youtu.be/UCfAqp5HY6Q) |
 | 2022-08-31  | CC BY   | 169    | [My Mind](https://youtu.be/bGJXXpXL2Do) |
-| 2022-08-24  | CC BY   | 168    | [NEFFEX x NEONI - Pinky Promise](https://youtu.be/PpVi8RduUUk) |
+| 2022-08-24  | CC BY   | 168    | [Pinky Promise (feat. NEONI)](https://youtu.be/PpVi8RduUUk) |
 | 2022-08-17  | CC BY   | 167    | [You Will Never See Me Coming](https://youtu.be/fUMchJqxQ4g) |
 | 2022-08-10  | CC BY   | 166    | [6 Shots](https://youtu.be/7UmBGMktAoI) |
 | 2022-08-03  | CC BY   | 165    | [Anxiety](https://youtu.be/EgZ39cjAJuM) |
@@ -157,7 +157,7 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 | 2021-04-30  | LABEL   | _none_ | [Are You Ok?](https://youtu.be/68uOx2h1na8) |
 | 2021-01-15  | LABEL   | _none_ | [Time](https://youtu.be/nNGcpb_3g5U) |
 | 2020-11-20  | LABEL   | _none_ | [Scars](https://youtu.be/Ecvxh1gabWQ) |
-| 2020-11-05  | LABEL   | _none_ | [Mind Reader feat. MASN](https://youtu.be/ZjaMkt5Uo2c) |
+| 2020-11-05  | LABEL   | _none_ | [Mind Reader (feat. MASN)](https://youtu.be/ZjaMkt5Uo2c) |
 | 2020-10-23  | LABEL   | _none_ | [Closer to Heaven](https://youtu.be/GROFpDY-o-E) |
 | 2020-10-07  | LABEL   | _none_ | [Hell Won't Take Me](https://youtu.be/A_nTNKvEdKI) |
 | 2020-09-30  | LABEL   | _none_ | [I'll Be Fine](https://youtu.be/9M0wZrsX0tY) |
@@ -166,8 +166,8 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 | 2020-09-25  | LABEL   | _none_ | [Wow!](https://youtu.be/kFzb-U2ty5Y) |
 | 2020-09-25  | LABEL   | _none_ | [Don't Hate Me](https://youtu.be/-jch_T3J5QM) |
 | 2020-09-25  | LABEL   | _none_ | [Unavailable](https://youtu.be/GoTjn6hD_io) |
-| 2020-09-25  | LABEL   | _none_ | [Be Somebody feat. ROZES](https://youtu.be/T2HN-MjfMbU) |
-| 2020-09-09  | LABEL   | _none_ | [I Wanna Play A Game feat. Jez Dior](https://youtu.be/6jBhSCM64gI) |
+| 2020-09-25  | LABEL   | _none_ | [Be Somebody (feat. ROZES)](https://youtu.be/T2HN-MjfMbU) |
+| 2020-09-09  | LABEL   | _none_ | [I Wanna Play A Game (feat. Jez Dior)](https://youtu.be/6jBhSCM64gI) |
 | 2020-08-21  | LABEL   | _none_ | [Sometimes](https://youtu.be/jE60NVXscis) |
 | 2020-06-26  | LABEL   | _none_ | [Worst Of You](https://youtu.be/ZUOHatJVk2I) |
 | 2020-05-15  | LABEL   | _none_ | [I'm Not Worth It](https://youtu.be/hX94W2I6D8c) |
@@ -291,30 +291,30 @@ yt-dlp --no-flat-playlist --no-download --print-to-file \
 | 2017-02-16  | CC BY   | 2      | [Tonight](https://youtu.be/q2IvHgXTw68) |
 | 2017-02-10  | CC BY   | _none_ | [Summer](https://youtu.be/TAmhVFA1d8Q)[^3] |
 | 2017-02-02  | CC BY   | 1      | [Bros B4 Hoes](https://youtu.be/4e3u78_0gbw) |
-| 2016-12-16  | REMIX   | _none_ | [Portz - What's Up? (NEFFEX Remix)](https://youtu.be/TZETt1U2PjU) |
+| 2016-12-16  | REMIX   | _none_ | [Portz - What's Up? (NEFFEX remix)](https://youtu.be/TZETt1U2PjU) |
 | 2016-12-10  | CC BY   | _none_ | [Jingle Bells](https://youtu.be/nhHsAWZ4Fnc) |
 | 2016-11-30  | CC BY   | _none_ | [Rollin' With The Devil](https://youtu.be/BGdgBwSjLYQ) |
 | 2016-11-16  | CC BY   | _none_ | [Memories](https://youtu.be/W6x9gChKCBU) |
-| 2016-10-03  | REMIX   | _none_ | [The Chainsmokers - All We Know ft. Phoebe Ryan (NEFFEX Remix)](https://youtu.be/bywhQy8Z5X4) |
-| 2016-09-16  | CC BY   | _none_ | [Messed Up (Original mix)](https://youtu.be/E-h6uB6sZ1Y) |
-| 2016-08-15  | REMIX   | _none_ | [The Chainsmokers - Closer ft. Halsey (NEFFEX Remix)](https://youtu.be/sHDb6LzrdUk) |
-| 2016-06-28  | REMIX   | _none_ | [DJ Khaled - For Free ft. Drake (NEFFEX Remix)](https://youtu.be/3i3bFtsfcnU) |
-| 2016-06-16  | REMIX   | _none_ | [We The Kings - Check Yes Juliet (NEFFEX Remix)](https://youtu.be/FKkSCC8NIpo) |
-| 2016-06-16  | REMIX   | _none_ | [Wes Walker - Jordan Belfort (NEFFEX Festival Trap Remix)](https://youtu.be/5j4_hbu0REc) |
-| 2016-06-16  | REMIX   | _none_ | [Grandtheft & Keys N Krates - Keep It 100 (NEFFEX Remix)](https://youtu.be/WZepJroGn5M) |
-| 2016-06-16  | REMIX   | _none_ | [graves & FELMAX - Zebras In America (NEFFEX Remix)](https://youtu.be/75unzFz4fUs) |
-| 2016-06-16  | REMIX   | _none_ | [Lookas - Voyager (NEFFEX Remix)](https://youtu.be/b-LogphUT4g) |
-| 2016-06-15  | REMIX   | _none_ | [JACKAL - OHUMAD (NEFFEX Remix)](https://youtu.be/Cpf3TUp6-uA) |
-| 2016-06-15  | CC BY   | _none_ | [If JAUZ Played Guitar (Original Mix)](https://youtu.be/IaQzkuo1Wn4) |
-| 2016-06-15  | REMIX   | _none_ | [Tomsize & Creaky Jackals - Fly (NEFFEX Remix)](https://youtu.be/B7wpnXBlHzA) |
-| 2016-06-15  | REMIX   | _none_ | [Dotcom - Click (NEFFEX Remix)](https://youtu.be/8OkSzhjObU0) |
-| 2016-06-15  | REMIX   | _none_ | [Slushii - Deeper Love (NEFFEX Remix)](https://youtu.be/EZapg0Mf0tI) |
-| 2016-06-15  | REMIX   | _none_ | [Marshmello - WroNg (NEFFEX Remix)](https://youtu.be/DOuS7MlNRWw) |
-| 2016-06-15  | REMIX   | _none_ | [Ariana Grande - Dangerous Woman (NEFFEX Remix)](https://youtu.be/n3j3sS-ZKXg) |
-| 2016-06-15  | REMIX   | _none_ | [Eminem - Till I Collapse (NEFFEX Remix)](https://youtu.be/jNFPM6frhCA) |
-| 2016-06-15  | REMIX   | _none_ | [Iggy Azalea - TEAM (NEFFEX Remix)](https://youtu.be/9eiAO1oJ41w) |
-| 2016-06-15  | REMIX   | _none_ | [Fifth Harmony - All In My Head (NEFFEX Remix)](https://youtu.be/p9Anc9UP-WA) |
-| 2016-02-18  | CC BY   | _none_ | [Killa (Original)](https://youtu.be/MKaeNSk2_Jg) |
+| 2016-10-03  | REMIX   | _none_ | [The Chainsmokers - All We Know ft. Phoebe Ryan (NEFFEX remix)](https://youtu.be/bywhQy8Z5X4) |
+| 2016-09-16  | CC BY   | _none_ | [Messed Up](https://youtu.be/E-h6uB6sZ1Y) |
+| 2016-08-15  | REMIX   | _none_ | [The Chainsmokers - Closer ft. Halsey (NEFFEX remix)](https://youtu.be/sHDb6LzrdUk) |
+| 2016-06-28  | REMIX   | _none_ | [DJ Khaled - For Free ft. Drake (NEFFEX remix)](https://youtu.be/3i3bFtsfcnU) |
+| 2016-06-16  | REMIX   | _none_ | [We The Kings - Check Yes Juliet (NEFFEX remix)](https://youtu.be/FKkSCC8NIpo) |
+| 2016-06-16  | REMIX   | _none_ | [Wes Walker - Jordan Belfort (NEFFEX festival trap remix)](https://youtu.be/5j4_hbu0REc) |
+| 2016-06-16  | REMIX   | _none_ | [Grandtheft & Keys N Krates - Keep It 100 (NEFFEX remix)](https://youtu.be/WZepJroGn5M) |
+| 2016-06-16  | REMIX   | _none_ | [graves & FELMAX - Zebras In America (NEFFEX remix)](https://youtu.be/75unzFz4fUs) |
+| 2016-06-16  | REMIX   | _none_ | [Lookas - Voyager (NEFFEX remix)](https://youtu.be/b-LogphUT4g) |
+| 2016-06-15  | REMIX   | _none_ | [JACKAL - OHUMAD (NEFFEX remix)](https://youtu.be/Cpf3TUp6-uA) |
+| 2016-06-15  | CC BY   | _none_ | [If JAUZ Played Guitar](https://youtu.be/IaQzkuo1Wn4) |
+| 2016-06-15  | REMIX   | _none_ | [Tomsize & Creaky Jackals - Fly (NEFFEX remix)](https://youtu.be/B7wpnXBlHzA) |
+| 2016-06-15  | REMIX   | _none_ | [Dotcom - Click (NEFFEX remix)](https://youtu.be/8OkSzhjObU0) |
+| 2016-06-15  | REMIX   | _none_ | [Slushii - Deeper Love (NEFFEX remix)](https://youtu.be/EZapg0Mf0tI) |
+| 2016-06-15  | REMIX   | _none_ | [Marshmello - WroNg (NEFFEX remix)](https://youtu.be/DOuS7MlNRWw) |
+| 2016-06-15  | REMIX   | _none_ | [Ariana Grande - Dangerous Woman (NEFFEX remix)](https://youtu.be/n3j3sS-ZKXg) |
+| 2016-06-15  | REMIX   | _none_ | [Eminem - Till I Collapse (NEFFEX remix)](https://youtu.be/jNFPM6frhCA) |
+| 2016-06-15  | REMIX   | _none_ | [Iggy Azalea - TEAM (NEFFEX remix)](https://youtu.be/9eiAO1oJ41w) |
+| 2016-06-15  | REMIX   | _none_ | [Fifth Harmony - All In My Head (NEFFEX remix)](https://youtu.be/p9Anc9UP-WA) |
+| 2016-02-18  | CC BY   | _none_ | [Killa](https://youtu.be/MKaeNSk2_Jg) |
 
 [^1]: The song "GOT THIS" was a _bonus_ that did not follow the usual release schedule.
 
