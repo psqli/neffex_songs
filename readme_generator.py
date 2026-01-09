@@ -51,17 +51,39 @@ markdown_table_lines = [
 ]
 footnoteCount = 0
 for song in songs:
-    colDate = song["releaseDate"]
-    colLicense = song["license"]
-    colNumber = song.get("neffexReleaseNumber", "_none_")
-    songName = song["name"]
-    if "feat" in song:
-        songName += f" (feat. {song["feat"]})"
-    colName = "[{name}]({url})".format(name=songName, url=song["originalUrl"])
-    if "additionalNote" in song:
+    # Release date
+    date = song["releaseDate"]
+    # License
+    license = song["license"]
+    # URL
+    url = song["originalUrl"]
+    # Name
+    name = song["name"]
+
+    # (optional) Suffix and featuring artist
+    suffix = song.get("suffix")
+    feat = song.get("feat")
+    # (optional) NEFFEX's release number
+    number = song.get("neffexReleaseNumber")
+    # (optional) Additional note
+    note = song.get("additionalNote")
+
+    # Prepare the final name
+    final_name = name
+    if feat is not None:
+        final_name += f" (feat. {feat})"
+    if suffix is not None:
+        final_name += f" ({suffix})"
+
+    # Prepare the name column content
+    name_col = f"[{final_name}]({url})"
+    if note is not None:
         footnoteCount += 1
-        colName += f"[^{footnoteCount}]" if "additionalNote" in song else ""
-    line = f"| {colDate:<11} | {colLicense:<7} | {colNumber:<6} | {colName} |"
+        name_col += f"[^{footnoteCount}]"
+
+    number_col = number if number is not None else "_none_"
+
+    line = f"| {date:<11} | {license:<7} | {number_col:<6} | {name_col} |"
     markdown_table_lines.append(line)
 
 markdown_table_data = "\n".join(markdown_table_lines)

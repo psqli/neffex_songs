@@ -63,13 +63,15 @@
             "releaseDate": "2024-12-18",
             "license": "CC BY",
             "neffexReleaseNumber": 236,
-            "name": "The Friends Inside My Head (demo)",
+            "name": "The Friends Inside My Head",
+            "suffix": "demo",
             "originalUrl": "https://youtu.be/avHW9PQsGz8"
         },
         {
             "releaseDate": "2024-09-25",
             "license": "CC BY",
-            "name": "DESPERATE (TOKYO MACHINE remix)",
+            "name": "DESPERATE",
+            "suffix": "TOKYO MACHINE remix",
             "originalUrl": "https://youtu.be/ueDFpnjWaG0"
         },
         {
@@ -160,7 +162,8 @@
             "releaseDate": "2023-12-20",
             "license": "CC BY",
             "neffexReleaseNumber": 223,
-            "name": "I Want More (freestyle)",
+            "name": "I Want More",
+            "suffix": "freestyle",
             "originalUrl": "https://youtu.be/kcSeTPWJmsA"
         },
         {
@@ -1898,7 +1901,8 @@
         {
             "releaseDate": "2016-12-16",
             "license": "REMIX",
-            "name": "Portz - What's Up? (NEFFEX remix)",
+            "name": "Portz - What's Up?",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/TZETt1U2PjU"
         },
         {
@@ -1922,7 +1926,8 @@
         {
             "releaseDate": "2016-10-03",
             "license": "REMIX",
-            "name": "The Chainsmokers - All We Know ft. Phoebe Ryan (NEFFEX remix)",
+            "name": "The Chainsmokers - All We Know ft. Phoebe Ryan",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/bywhQy8Z5X4"
         },
         {
@@ -1934,19 +1939,22 @@
         {
             "releaseDate": "2016-08-15",
             "license": "REMIX",
-            "name": "The Chainsmokers - Closer ft. Halsey (NEFFEX remix)",
+            "name": "The Chainsmokers - Closer ft. Halsey",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/sHDb6LzrdUk"
         },
         {
             "releaseDate": "2016-06-28",
             "license": "REMIX",
-            "name": "DJ Khaled - For Free ft. Drake (NEFFEX remix)",
+            "name": "DJ Khaled - For Free ft. Drake",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/3i3bFtsfcnU"
         },
         {
             "releaseDate": "2016-06-16",
             "license": "REMIX",
-            "name": "We The Kings - Check Yes Juliet (NEFFEX remix)",
+            "name": "We The Kings - Check Yes Juliet",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/FKkSCC8NIpo"
         },
         {
@@ -1958,25 +1966,29 @@
         {
             "releaseDate": "2016-06-16",
             "license": "REMIX",
-            "name": "Grandtheft & Keys N Krates - Keep It 100 (NEFFEX remix)",
+            "name": "Grandtheft & Keys N Krates - Keep It 100",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/WZepJroGn5M"
         },
         {
             "releaseDate": "2016-06-16",
             "license": "REMIX",
-            "name": "graves & FELMAX - Zebras In America (NEFFEX remix)",
+            "name": "graves & FELMAX - Zebras In America",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/75unzFz4fUs"
         },
         {
             "releaseDate": "2016-06-16",
             "license": "REMIX",
-            "name": "Lookas - Voyager (NEFFEX remix)",
+            "name": "Lookas - Voyager",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/b-LogphUT4g"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "JACKAL - OHUMAD (NEFFEX remix)",
+            "name": "JACKAL - OHUMAD",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/Cpf3TUp6-uA"
         },
         {
@@ -1988,49 +2000,57 @@
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Tomsize & Creaky Jackals - Fly (NEFFEX remix)",
+            "name": "Tomsize & Creaky Jackals - Fly",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/B7wpnXBlHzA"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Dotcom - Click (NEFFEX remix)",
+            "name": "Dotcom - Click",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/8OkSzhjObU0"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Slushii - Deeper Love (NEFFEX remix)",
+            "name": "Slushii - Deeper Love",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/EZapg0Mf0tI"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Marshmello - WroNg (NEFFEX remix)",
+            "name": "Marshmello - WroNg",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/DOuS7MlNRWw"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Ariana Grande - Dangerous Woman (NEFFEX remix)",
+            "name": "Ariana Grande - Dangerous Woman",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/n3j3sS-ZKXg"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Eminem - Till I Collapse (NEFFEX remix)",
+            "name": "Eminem - Till I Collapse",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/jNFPM6frhCA"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Iggy Azalea - TEAM (NEFFEX remix)",
+            "name": "Iggy Azalea - TEAM",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/9eiAO1oJ41w"
         },
         {
             "releaseDate": "2016-06-15",
             "license": "REMIX",
-            "name": "Fifth Harmony - All In My Head (NEFFEX remix)",
+            "name": "Fifth Harmony - All In My Head",
+            "suffix": "NEFFEX remix",
             "originalUrl": "https://youtu.be/p9Anc9UP-WA"
         },
         {
